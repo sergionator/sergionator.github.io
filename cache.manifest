@@ -1,0 +1,17 @@
+CACHE MANIFEST 
+# v4
+# 16/03/2021-21:03
+
+
+CACHE:
+
+index.html
+js/script.js
+css/index.css
+Ressources/Wallpaper.gif
+
+FALLBACK:
+index.html
+
+NETWORK: 
+*
